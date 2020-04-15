@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body {
+  background-image: url("../img/book-search.jpg");
+  background-size: cover;
+
+
+}
+
+h2, h1 {
+  font-family: 'Righteous', cursive;
+}
+
+#header {
+  font-size: 3rem;
+}
+
+.book-list {
+  margin-top: 50px;
+  visibility: hidden;
+}

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body {
+  background-color: pink;
+  background-image: url(../imges/book-search.jpg);
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+h1 {
+    font-family:"Righteous";
+}
+
+button {
+  margin-top: 20px;
+  text-align: center;
+
+}
